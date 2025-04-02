@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "C:/Users/Heiko/.platformio/packages/toolchain-xtensa-esp32s2/bin/xtensa-esp32s2-elf-gcc.exe",
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.h": "cpp",
+        "typeinfo": "cpp",
+        "map": "cpp"
+    }
+}
